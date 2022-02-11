@@ -1,0 +1,80 @@
+
+/* GENERAL */
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;  
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.clearfix::after{
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  /* HEADER */
+
+  header{
+    height: 50px;  
+    background-color: red;
+    padding: 10px 0;
+}
+
+/* BARRA-SX */
+
+.barra-sx{
+    float: left;
+}
+
+.menu-sx{
+    float: right;
+    text-align: center;
+}
+
+nav ul li{
+    display: inline-block;
+    list-style-type: none; 
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 0 25px;
+    /* vertical-align: middle; */
+}
+
+.logo{
+    float: left;
+}
+
+
+/* BARRA-DX */
+
+.barra.dx{
+    float: right;
+}
+
+.menu-dx{
+    float: left;
+    /* text-align: center; */
+    margin-left: 620px;
+}
+
+.inizia{
+    float: right;
+    margin-right: 20px;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+}
+
+
+
+
+
