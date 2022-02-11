@@ -97,7 +97,7 @@ nav ul li a{
 
 
 .sfondo{
-    max-height: 746px;
+    /* max-height: 746px; */
     background-color: rgba(180,208,231,255);
 }
 
@@ -149,7 +149,7 @@ h2{
 
 .vertical{
     background-color: white;
-    height: 100vh;
+    height: 80vh;
     border: solid rgba(223,223,225,255) 1px;
     float: left;
     /* width: calc(100% / 3); */
@@ -204,11 +204,16 @@ h2{
     margin: 20px;
 }
 
+.int3{
+    padding-top: 15px;
+    padding-left: 20px;
+    /* padding-bottom: 20px; */
+}
 
-
-
-
-
+.list{
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
 
 .horizontal{
     background-color: white;
