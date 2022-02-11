@@ -1,6 +1,7 @@
 
 /* GENERAL */
 
+
 *{
   margin: 0;
   padding: 0;
@@ -19,13 +20,14 @@ html{
 
   /* HEADER */
 
+
   header{
     height: 50px;  
-    background-color: red;
     padding: 10px 0;
 }
 
 /* BARRA-SX */
+
 
 .barra-sx{
     float: left;
@@ -50,10 +52,12 @@ nav ul li a{
 
 .logo{
     float: left;
+    margin-left: 10px;
 }
 
 
 /* BARRA-DX */
+
 
 .barra.dx{
     float: right;
@@ -61,18 +65,92 @@ nav ul li a{
 
 .menu-dx{
     float: left;
-    /* text-align: center; */
     margin-left: 620px;
 }
 
-.inizia{
-    float: right;
-    margin-right: 20px;
-    background-color: blue;
+.button{
+    background-color: rgba(0,97,255,255);
     color: white;
     text-decoration: none;
     padding: 5px;
 }
+
+.inizia{
+    margin-right: 20px;
+    float: right;
+}
+
+
+                         /*  CORPO  */
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.container1{
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* SEZIONE 1 */
+
+
+.sfondo{
+    max-height: 746px;
+    background-color: rgba(180,208,231,255);
+}
+
+h1{
+    font-size: 85px;
+    padding-top: 70px;
+    margin-top: 20px;
+}
+
+.img-1{
+    width: 900px;
+    float: right;
+    margin-top: 40px;
+}
+
+.paragrafo-1{
+    width: 400px;
+    font-size: 20px;
+    margin-top: 40px;
+}
+
+p{
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.inizia-la-prova{
+    font-size: 20px;
+}
+
+.chiudi-piano{
+    margin-top: 15px;
+}
+
+
+/* SEZIONE 2 */
+
+h2{
+    font-size: 50px;
+    padding-top: 100px;
+    margin-top: 40px;
+}
+
+.radio-button{
+    display: inline-block;
+    margin-top: 35px;
+    margin-right: 20px;
+}
+
+
+
+
+
 
 
 
