@@ -238,7 +238,25 @@ h2{
     right: 35px;
 }
 
+.img2{
+    width: 600px;
+    float: left;
+    margin-top: 40px;
+}
 
+.testo-laterale{
+    /* display: inline-block; */
+    padding-top: 50px;
+}
+
+.partner-dropbox{
+    padding-left: 650px;
+    padding-bottom: 30px;
+}
+
+.partner-paragrafo{
+    padding-left: 650px;
+}
 
 
     
