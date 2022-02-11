@@ -217,9 +217,25 @@ h2{
 
 .horizontal{
     background-color: white;
-    height: 50vh;
+    /* height: 40vh; */
     border: solid rgba(223,223,225,255) 1px;
     width: 94.7%;
+    padding-bottom: 120px;
+}
+
+.int1-4{
+    position: relative;
+}
+
+.int4{
+    padding-top: 15px;
+    padding-left: 20px;
+}
+
+.ufficio-vendite{
+    position: absolute;
+    top: 45px;;
+    right: 35px;
 }
 
 
