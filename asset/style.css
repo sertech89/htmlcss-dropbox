@@ -147,6 +147,81 @@ h2{
     margin-right: 20px;
 }
 
+.vertical{
+    background-color: white;
+    height: 100vh;
+    border: solid rgba(223,223,225,255) 1px;
+    float: left;
+    /* width: calc(100% / 3); */
+    margin-right: 61px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 28%;
+}
+
+.titolo-colonna{
+    padding: 15px;
+    text-align: center;
+}
+
+/* .intestazione-colonna1{
+    padding: 20px;
+    margin-bottom: 15px;
+} */
+
+.int1-1{
+    padding-bottom: 20px;
+}
+
+.int1{
+    padding-top: 15px;
+    padding-left: 20px;
+    /* padding-bottom: 20px; */
+}
+
+.int1-2{
+    padding-bottom: 30px;
+}
+
+.int2{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.prova-gratis{
+    margin-left: 20px;
+    /* margin-top: 20px; */
+}
+
+.oppure{
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.mezzo-hr{
+    width: 15%;
+    margin: 20px;
+}
+
+
+
+
+
+
+
+.horizontal{
+    background-color: white;
+    height: 50vh;
+    border: solid rgba(223,223,225,255) 1px;
+    width: 94.7%;
+}
+
+
+
+
+    
+
 
 
 
