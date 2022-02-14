@@ -351,24 +351,21 @@ div ul li a{
 }
 
 .testo-laterale{
-    padding-top: 50px;
+    float: left;
+    max-width: 500px;
 }
 
 .partner-dropbox{
-    padding-left: 650px;
+    margin-left: 50px;
     padding-bottom: 30px;
-    margin-top: 25px;
+    margin-top: 65px;
 }
 
-.space-1{
-    padding-top: 150px;
-    padding-bottom: 150px;
-}
 
 .partner-paragrafo{
-    padding-left: 650px;
+    margin-left: 50px;
     font-weight: none;
-}
+} 
 
 .trova-partner{
     background-color: white;
