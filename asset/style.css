@@ -555,6 +555,26 @@ div ul li a{
     margin-top: 80px;
 }
 
+/* RETTANGOLO */
+
+.azienda-drop{
+    color: rgba(97,8,43,255);
+    float: left;
+    margin-left: 200px;
+}
+
+.inizia-prova{
+    background-color: white;
+    color: black;
+    float: right;
+    margin: 150px;
+    margin-right: 400px;
+    padding-left: 50px;
+    padding-right: 50px;
+
+    
+}
+
 
 
 
