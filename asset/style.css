@@ -133,8 +133,8 @@ li{
 
 h1{
     font-size: 85px;
-    padding-top: 70px;
-    margin-top: 20px;
+    /* padding-top: 70px; */
+    margin-top: 90px;
 }
 
 .img-1{
@@ -356,6 +356,11 @@ div ul li a{
     margin-top: 25px;
 }
 
+.space-1{
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
 .partner-paragrafo{
     padding-left: 650px;
     font-weight: none;
@@ -370,6 +375,177 @@ div ul li a{
     margin-left: 50px;
     margin-top: 30px;
 }
+
+.row1-1{
+    float: left;
+    width: calc(100% / 3);
+}
+
+.img-row{
+    width: 400px;
+}
+
+/* .row1-1-1{
+    width: calc(100% / 3);
+} */
+
+
+
+/* .scopri-clienti{
+    margin-top: 50px;
+} */
+
+.cinquecento{
+    margin-bottom: 50px;
+
+}
+
+.container3{
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.quadrato1{
+    width: 30%;
+    height: 500px;
+    /* border: solid red 1px; */
+    float: left;
+}
+
+.quadrato2{
+    width: 40%;
+    height: 500px;
+    background-color: rgba(245,245,245,255);
+    float: left;
+}
+
+.quadrato3{
+    width: 30%;
+    height: 500px;
+    /* border: solid red 1px; */
+    float: left;
+}
+
+.rettangolo{
+    width: 100%;
+    height: 350px;
+    background-color: rgba(180,208,231,255);
+    float: none;
+}
+
+
+/* QUADRATO 1 */
+
+.quadratino1{
+    width: 50%;
+    height: 250px;
+    background-color: rgba(162,211,155,255);
+    float: left;
+}
+
+.img-quadratino1{
+    width: 150px;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+
+.quadratino2{
+    width: 50%;
+    height: 250px;
+    background-color: rgba(97,8,43,255);
+    float: left;
+}
+
+.img-quadratino2{
+    width: 150px;
+    margin: 50px;
+    margin-top: 60px;
+}
+
+.quadratino3{
+    width: 50%;
+    height: 250px;
+    background-color: rgba(0,147,206,255);
+    float: left;
+}
+
+.img-quadratino3{
+    width: 150px;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+
+.quadratino4{
+    width: 50%;
+    height: 250px;
+    background-color: rgba(255,28,28,255);
+    float: left;
+}
+
+.img-quadratino4{
+    width: 150px;
+    margin: 50px;
+    margin-top: 80px;
+}
+
+
+/* QUADRATO 2 */
+
+
+
+
+
+/* QUADRATO 3 */
+
+.quadratino5{
+    width: 50%;
+    height: 250px;
+    background-color:rgba(213,0,31,255);
+    float: left;
+}
+
+.quadratino6{
+    width: 50%;
+    height: 250px;
+    background-color:rgba(180,208,231,255);
+    float: left;
+}
+
+.img-quadratino6{
+    width: 150px;
+    margin-left: 50px;
+    margin-top: 120px;
+}
+
+
+.quadratino7{
+    width: 50%;
+    height: 250px;
+    background-color:rgba(13,36,129,255);
+    float: left;
+}
+
+.quadratino8{
+    width: 50%;
+    height: 250px;
+    background-color:rgba(255,216,48,255);
+    float: left;
+}
+
+.img-quadratino8{
+    width: 150px;
+    margin-left: 50px;
+    margin-top: 80px;
+}
+
+
+
+
+
+
+
+
 
 
 
