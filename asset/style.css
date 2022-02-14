@@ -379,11 +379,13 @@ div ul li a{
 
 .row1-1{
     float: left;
-    width: calc(100% / 3);
+    width: calc((100% / 3) - 30px);
+    margin: 0 15px;
 }
 
 .img-row{
-    width: 400px;
+    width: 100%;
+    height: auto;
 }
 
 /* .row1-1-1{
