@@ -457,10 +457,11 @@ div ul li a{
     float: left;
 }
 
+
 .img-quadratino2{
-    width: 150px;
-    margin: 50px;
-    margin-top: 60px;
+    width: 130px;
+    margin: 70px;
+    margin-top: 70px;
 }
 
 .quadratino3{
@@ -492,8 +493,23 @@ div ul li a{
 
 /* QUADRATO 2 */
 
+.img-quadrato2{
+    width: 150px;
+    margin-top: 50px;
+    margin-left: 60px;
+}
 
+.hr-quadrato{
+    width: 80px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
 
+.paragrafo-cinquecento{
+    width: 90%;
+    margin-left: 50px;
+    margin-top: 50px;
+}
 
 
 /* QUADRATO 3 */
