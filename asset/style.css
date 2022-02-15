@@ -195,7 +195,7 @@ h2{
 .vertical{
     background-color: white;
     padding-bottom:bottom;
-    min-height: 1024px;
+    min-height: 924px;
     border: solid rgba(223,223,225,255) 1px;
     float: left;
     /* width: calc(100% / 3); */
@@ -644,8 +644,9 @@ div ul li a{
 
 footer{
     background-color: black;
-    height: 500px;
+    /* height: 500px; */
     margin-top: 150px;
+    padding-bottom: 100px;
 }
 
 .container4{
@@ -682,8 +683,28 @@ footer{
 }
 
 .hr-footer{
-    border-color: white;
+    border-color: rgba(48,48,48,255);
+    width: 150px;
+    margin-left: 170px;
 }
+
+.lingua{
+    padding: 50px 185px;
+}
+
+.italiano{
+    text-decoration: none;
+    color: rgba(48,48,48,255)
+}
+
+.fa-earth-americas{
+    font-size: 25px;
+}
+
+.fa-sort-up{
+    font-size: 20px;
+}
+
 
 
 
