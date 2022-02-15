@@ -134,7 +134,7 @@ li{
 
 
 .sfondo{
-    max-height: 855px;
+    max-height: 800px;
     /* HEIGHT-MAX per fare scendere la foto dallo sfondo */
     background-color: rgba(180,208,231,255);
     padding-top: 78px;
@@ -154,8 +154,9 @@ h1{
 
 .paragrafo-1{
     width: 400px;
-    font-size: 20px;
+    font-size: 15px;
     margin-top: 40px;
+    line-height: 25px;
 }
 
 p{
@@ -333,6 +334,7 @@ div ul li a{
     padding-top: 50px;
     padding-left: 20px; 
     font-weight: none; 
+    font-size: 13px;
 }
 
 
@@ -366,16 +368,22 @@ div ul li a{
     max-width: 500px;
 }
 
+.contatto-partner{
+    padding-top: 150px;
+}
+
 .partner-dropbox{
     margin-left: 50px;
     padding-bottom: 30px;
     margin-top: 65px;
+    line-height: 30px;
 }
 
 
 .partner-paragrafo{
     margin-left: 50px;
     font-weight: none;
+    line-height: 30px;
 } 
 
 .trova-partner{
@@ -399,9 +407,16 @@ div ul li a{
     height: auto;
 }
 
-/* .row1-1-1{
-    width: calc(100% / 3);
-} */
+.row1-1-1{
+    line-height: 30px;
+    font-size: 25px;
+    margin: 20px 0;
+
+}
+
+.p1-1-1{
+    line-height: 20px;
+}
 
 
 
