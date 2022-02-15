@@ -602,7 +602,7 @@ div ul li a{
     display: none;
 }
 
-.piano-standard:hover{
+.differenza:hover .piano-standard {
     display: block;
 }
 
